@@ -1,0 +1,27 @@
+sample_rate: 16000
+
+dataset:
+  name: LibriSpeech
+  split: test-clean
+  num_samples: 5
+
+model:
+  name: base
+  language: en
+  task: transcribe
+
+experiment:
+  snr_levels_db:
+    - 0
+    - 10
+    - 20
+  noise_type: gaussian_white
+
+denoising:
+  method: spectral_gating
+  library: noisereduce
+
+metrics:
+  - WER
+  - CER
+  - inference_time
