@@ -192,8 +192,7 @@ Therefore, the results indicate that **noise reduction should be carefully evalu
 
 ## Author
 
-**Name:** YOUR NAME  
-**Roll Number:** YOUR ROLL NUMBER  
+**Name:** RACHEPALLI HIMA BINDU
 **Program:** B.Tech Artificial Intelligence and Machine Learning  
 **University:** Jain University, Bengaluru  
 
