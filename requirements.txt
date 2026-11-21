@@ -1,0 +1,13 @@
+```text
+openai-whisper
+torch
+torchaudio
+librosa
+noisereduce
+jiwer
+numpy
+pandas
+matplotlib
+scipy
+soundfile
+```
