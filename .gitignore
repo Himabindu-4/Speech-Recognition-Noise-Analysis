@@ -1,0 +1,42 @@
+```text
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Audio files
+*.wav
+*.mp3
+*.flac
+*.ogg
+
+# Large datasets
+data/
+datasets/
+
+# Model files
+*.pt
+*.pth
+*.bin
+*.onnx
+
+# Generated results
+__pycache__/
+*.log
+```
